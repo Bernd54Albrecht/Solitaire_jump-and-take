@@ -5,5 +5,5 @@ Jump over one token into an empty field, remove the overleapt token.
 Continue until no more moves are possible.
 At best, one token will remain in the middle position (yes, it is possible!)
 
-Room for improvement: Undo button, Reset (or Restart) button
-End of Game with remaining number of tokens and reward
+Room for improvement: Undo button, Reset (or Restart) button.
+End of Game with remaining number of tokens and reward.
